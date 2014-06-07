@@ -4,8 +4,9 @@ Welcome to the UAFInteractiveNavigationController library. Please read this
 first if you're new or need a refresher.
 
 ![Screen capture 1.](https://dl.dropboxusercontent.com/u/305699/rhymes-navigation-1.mov.gif)
-![Screen capture 2.](https://dl.dropboxusercontent.com/u/305699/rhymes-navigation-2.mov.gif)
 ![Screen capture 3.](https://dl.dropboxusercontent.com/u/305699/rhymes-navigation-3.mov.gif)
+
+[More.](https://dl.dropboxusercontent.com/u/305699/rhymes-navigation-2.mov.gif)
 
 ## Description
 
