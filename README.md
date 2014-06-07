@@ -3,8 +3,7 @@
 Welcome to the UAFInteractiveNavigationController library. Please read this
 first if you're new or need a refresher.
 
-![screen capture](https://dl.dropboxusercontent.com/u/305699/rhymes-navigation.gif)
-(Colors are way off from image compression.)
+[Screen capture.](https://dl.dropboxusercontent.com/u/305699/rhymes-navigation.mov)
 
 ## Description
 
