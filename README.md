@@ -61,7 +61,7 @@ so it can be cancelled.
 
 To generate these docs, just do:
 
-    cd [repo-root]
-    appledoc .
-
-That's it and you'll see these instructions when you succeed. Recursion, whoa.
+```shell
+cd [repo-root]
+appledoc .
+```
